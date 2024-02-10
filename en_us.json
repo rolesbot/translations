@@ -1,5 +1,5 @@
 {
-    "$schema": "../i18n.schema.json",
+    "$schema": "./_.schema.json",
     "addToServer": "Add to Server",
     "appDirectory": "App Directory",
     "supportServer": "Support Server",
