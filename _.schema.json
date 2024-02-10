@@ -1,0 +1,331 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Translation",
+    "description": "Roles language translation schema",
+    "type": "object",
+    "properties": {
+        "addToServer": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "appDirectory": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "supportServer": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "website": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "error": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.help.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.title": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.field1.name": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.field1.value": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.field2.name": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.field2.value": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.field3.name": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.field3.value": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.help.reply.footer": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.add.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.add.role.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.add.reply.error.everyone": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.autoroles.add.reply.error.managed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.autoroles.add.reply.error.position": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.autoroles.add.reply.error.alreadyUsed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.autoroles.add.reply.success": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.autoroles.remove.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.remove.role.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.remove.reply.success": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.autoroles.remove.reply.error.notUsed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.autoroles.list.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.list.raw.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.autoroles.list.reply.empty": {
+            "type": "string",
+            "msgType": "empty"
+        },
+        "command.autoroles.list.reply.warn.tooLong": {
+            "type": "string",
+            "msgType": "warn"
+        },
+        "command.stickyroles.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.add.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.add.role.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.add.reply.error.everyone": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.stickyroles.add.reply.error.managed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.stickyroles.add.reply.error.position": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.stickyroles.add.reply.error.alreadyUsed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.stickyroles.add.reply.success": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.stickyroles.remove.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.remove.role.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.remove.reply.success": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.stickyroles.remove.reply.error.notUsed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.stickyroles.list.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.list.raw.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.stickyroles.list.reply.empty": {
+            "type": "string",
+            "msgType": "empty"
+        },
+        "command.stickyroles.list.reply.warn.tooLong": {
+            "type": "string",
+            "msgType": "warn"
+        },
+        "command.connectroles.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.add.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.add.childRole.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.add.parentRole.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.add.reply.error.sameRoles": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.connectroles.add.reply.error.everyone": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.connectroles.add.reply.error.managed": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.connectroles.add.reply.error.position": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.connectroles.add.reply.error.childAlreadyConnected": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.connectroles.add.reply.error.parentAlreadyChild": {
+            "type": "string",
+            "msgType": "error",
+            "deprecated": false
+        },
+        "command.connectroles.add.reply.error.childAlreadyParent": {
+            "type": "string",
+            "msgType": "error",
+            "deprecated": false
+        },
+        "command.connectroles.add.reply.error.childAlreadyParentOfParent": {
+            "type": "string",
+            "msgType": "error",
+            "deprecated": true
+        },
+        "command.connectroles.add.reply.success": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.connectroles.remove.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.remove.role.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.remove.reply.success.childRemoved": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.connectroles.remove.reply.success.parentRemoved": {
+            "type": "string",
+            "msgType": "success"
+        },
+        "command.connectroles.remove.reply.error.notConnected": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "command.connectroles.list.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.list.raw.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.list.reply.empty": {
+            "type": "string",
+            "msgType": "empty"
+        },
+        "command.connectroles.list.reply.warn.tooLong": {
+            "type": "string",
+            "msgType": "warn"
+        },
+        "command.connectroles.sync.description": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.sync.reply.start": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.sync.reply.finish": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.sync.reply.progress": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.connectroles.sync.reply.changes": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.onCooldown": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "command.error": {
+            "type": "string",
+            "msgType": "error"
+        },
+        "permission.required.all.text": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "permission.required.missing.title": {
+            "type": "string",
+            "msgType": "warn"
+        },
+        "permission.required.missing.text": {
+            "type": "string",
+            "msgType": "default"
+        },
+        "permission.required.reauthorize": {
+            "type": "string",
+            "msgType": "default"
+        }
+    }
+}
