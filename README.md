@@ -16,7 +16,7 @@ Community translations of the [Discord Roles Bot](https://roles.bot)
    - If your translation does not cover everything, please don't leave empty JSON strings (`""`). Instead, don't include the missing properties in your file. The bot will use English as a fallback language.
 6. Create a Pull Request! 🎉
 
-### Complete existing languages
+### Completing an existing language
 1. Clone the repository
 2. Add the missing properties to an incomplete file
    - Make sure you follow the schema in `_.schema.json`
