@@ -56,7 +56,7 @@
     "command.connectroles.remove.reply.success.childRemoved": "[role] a été déconnecté de son rôle parent.",
     "command.connectroles.remove.reply.success.parentRemoved": "Tous les rôles enfants de [role] ont été déconnectés.",
     "command.connectroles.list.description": "Afficher les connexions de rôle actuelles",
-    "command.connectroles.list.raw.description": "Générer vos connexions de rôle sous forme de fichier texte brut »,
+    "command.connectroles.list.raw.description": "Génére vos connexions de rôle sous forme de fichier texte « brut »",
     "command.connectroles.list.reply.empty": "Ce serveur n'a aucune connexion de rôle.",
     "command.connectroles.list.reply.warn.tooLong": "La liste dépasse la limite de caractères. Veuillez utiliser l'option de commande « brut ».",
     "command.connectroles.sync.description": "Synchronise les connexions de rôle - nécessaire uniquement si vous (dé)connectez des rôles déjà attribués",
