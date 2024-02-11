@@ -47,7 +47,7 @@
     "command.connectroles.add.reply.error.position": "My permissions are not sufficient to assign the parent role. Make sure any of my roles is above [role].",
     "command.connectroles.add.reply.error.childAlreadyConnected": "[role] is already connected to a parent role.",
     "command.connectroles.add.reply.error.childAlreadyParent": "[role] is already connected to a parent role.",
-    "command.connectroles.add.reply.error.childAlreadyParentOfParent": "[parent] is already the parent role if [child]",
+    "command.connectroles.add.reply.error.childAlreadyParentOfParent": "[parent] is already the parent role of [child]",
     "command.connectroles.add.reply.error.parentAlreadyChild": "[role] is already connected to a parent role.",
     "command.connectroles.add.reply.success": "[child] is now a child role of [parent]",
     "command.connectroles.remove.description": "Remove a Role Connection",
