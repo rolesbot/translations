@@ -21,7 +21,7 @@
     "command.autoroles.list.raw.description": "Génére vos rôles automatiques sous forme de fichier texte brut",
     "command.autoroles.list.reply.empty": "Ce serveur n'a aucun rôle automatique.",
     "command.autoroles.list.reply.warn.tooLong": "La liste dépasse la limite de caractères. Veuillez utiliser l'option de commande `raw`.",
-    "command.stickyroles.description": "Réattribue les rôles aux utilisateurs au cas où ils quitteraient votre serveur et le rejoindraient à nouveau",
+    "command.stickyroles.description": "Réattribue les rôles aux utilisateurs s'ils quittent et rejoignent le serveur.",
     "command.stickyroles.add.description": "Ajoute un nouveau rôle collant",
     "command.stickyroles.add.role.description": "Sélectionnez un role",
     "command.stickyroles.add.reply.error.everyone": "Vous ne pouvez pas définir @everyone comme rôle collant.",
