@@ -59,7 +59,7 @@
     "command.connectroles.list.raw.description": "Génére vos connexions de rôle sous forme de fichier texte `raw`",
     "command.connectroles.list.reply.empty": "Ce serveur n'a aucune connexion de rôle.",
     "command.connectroles.list.reply.warn.tooLong": "La liste dépasse la limite de caractères. Veuillez utiliser l'option de commande `raw`.",
-    "command.connectroles.sync.description": "Synchronise les connexions de rôle - nécessaire uniquement si vous (dé)connectez des rôles déjà attribués",
+    "command.connectroles.sync.description": "Synchronise les connexions de rôle - nécessaire (dé)connectez rôles déjà attribués.",
     "command.connectroles.sync.reply.changes": "Changements",
     "command.connectroles.sync.reply.progress": "Progrès",
     "command.connectroles.sync.reply.start": "Synchronisation des connexions de rôle ...",
