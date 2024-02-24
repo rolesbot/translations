@@ -14,10 +14,10 @@ Community translations of the [Discord Roles Bot](https://roles.bot)
 4. Translate the properties from `en_us.json` (or any other complete translation)
    - Feature names like "Auto Roles" should not be translated.
    - If your translation does not cover everything, please don't leave empty JSON strings (`""`). Instead, don't include the missing properties in your file. The bot will use English as a fallback language.
-6. Create a Pull Request! 🎉
+5. Create a Pull Request! 🎉
 
 ### Completing an existing language
 1. Clone / Fork the repository
 2. Add the missing properties to an incomplete file
    - Make sure you follow the schema in `_.schema.json`
-4. Create a Pull Request! 🎉
+3. Create a Pull Request! 🎉
