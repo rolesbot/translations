@@ -66,7 +66,7 @@
     "command.connectroles.sync.reply.finish": "Synchronisierte Role Connections",
     "command.help.description": "Über mich",
     "command.help.reply.title": "Roles — Hilfe",
-    "command.help.reply.description": "Wir veröffentlichen Tutorials auf unserem **[YouTube-Kanal]](https://www.youtube.com/@rolesbot)**.",
+    "command.help.reply.description": "Wir veröffentlichen Tutorials auf unserem **[YouTube-Kanal](https://www.youtube.com/@rolesbot)**.",
     "command.help.reply.footer": "Programmiert von @pauel und @leonbrn",
     "command.help.reply.field1.name": "Connection Roles — /connectroles",
     "command.help.reply.field1.value": "Verbinde mehrere Child Rollen mit einer Parent Rolle, um das Aussehen und die Organisation deines Servers zu verbessern.",
