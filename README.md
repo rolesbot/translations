@@ -5,6 +5,8 @@ Community translations of the [Discord Roles Bot](https://roles.bot)
 ## How to contribute
 **We appreciate your help!** If your Pull Request gets merged, you can contact us on our [Support Server](https://discord.gg/8VZ69XyJeQ) to receive a **Translator role**. Alternatively, you can include your Discord username in the commit message.
 
+**Command descriptions need to below 100 characters in length!**
+
 ### Adding a new language
 1. Clone / Fork the repository
 2. Create a new file for the desired language (e.g. `fr.json` for French)
