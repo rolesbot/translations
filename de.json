@@ -78,6 +78,6 @@
     "command.error": "**Ein Fehler ist aufgetreten.** Bitte versuche es später erneut oder kontaktiere uns auf unserem Support-Server.",
     "permission.required.all.text": "Alle notwendigen Rechte wurden erteilt.",
     "permission.required.missing.title": "Fehlende Rechte",
-    "permission.required.missing.text": "Der Bot benötigt folgende Rechte, um ordnungsgemäß zu funktionieren: [Berechtigungen]. Du kannst die Rechte der Bot Rolle in den Servereinstellungen manuell zuweisen oder den Bot neu autorisieren.",
+    "permission.required.missing.text": "Der Bot benötigt folgende Rechte, um ordnungsgemäß zu funktionieren: [permissions]. Du kannst die Rechte der Bot Rolle in den Servereinstellungen manuell zuweisen oder den Bot neu autorisieren.",
     "permission.required.reauthorize": "Neu autorisieren"
 }
