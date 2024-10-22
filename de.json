@@ -21,7 +21,7 @@
     "command.autoroles.list.raw.description": "Ausgabe der Auto Rollen als Rohtextdatei",
     "command.autoroles.list.reply.empty": "Dieser Server hat keine Auto Rollen.",
     "command.autoroles.list.reply.warn.tooLong": "Die Liste überschreitet das Zeichenlimit. Bitte benutze die `raw` Befehlsoption.",
-    "command.stickyroles.description": "Erneute Vergabe von Rollen an Benutzer im Falle, dass diese den Server erneut beitreten",
+    "command.stickyroles.description": "Erneute Vergabe von Rollen an Nutzer im Falle, dass diese den Server erneut beitreten",
     "command.stickyroles.add.description": "Füge eine neue Sticky Rolle hinzu",
     "command.stickyroles.add.role.description": "Wähle eine Rolle",
     "command.stickyroles.add.reply.error.everyone": "Du kannst @everyone nicht als Sticky Rolle festlegen.",
