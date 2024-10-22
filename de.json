@@ -73,7 +73,7 @@
     "command.help.reply.field2.name": "Auto Roles — /autoroles",
     "command.help.reply.field2.value": "Vergebe automatisch Rollen an neue Mitglieder unter Berücksichtigung des Rules Screening.",
     "command.help.reply.field3.name": "Sticky Roles — /stickyroles",
-    "command.help.reply.field3.value": "Erneute Vergabe von Rollen an Benutzer im Falle, dass diese den Server verlassen und erneut beitreten.",
+    "command.help.reply.field3.value": "Erneute Vergabe von Rollen an Nutzer im Falle, dass diese den Server verlassen und erneut beitreten.",
     "command.onCooldown": "Du kannst diesen Befehl [rtime] erneut verwenden.",
     "command.error": "**Ein Fehler ist aufgetreten.** Bitte versuche es später erneut oder kontaktiere uns auf unserem Support-Server.",
     "permission.required.all.text": "Alle notwendigen Rechte wurden erteilt.",
